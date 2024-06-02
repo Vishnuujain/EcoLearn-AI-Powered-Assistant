@@ -62,6 +62,10 @@ Before running the script, make sure you have the following:
 
 4. Continue the conversation by entering subsequent messages.
 
+
+## Demo Video Link: https://www.loom.com/share/147f5656f9194b4e8ed1477804ee1009
+
+
 ## Customization
 
 - You can customize the agent's behavior by modifying the `tools` list in the script. Add or remove tools based on your requirements.
