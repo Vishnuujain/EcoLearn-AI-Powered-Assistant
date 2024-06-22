@@ -248,9 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feedback, or would like to collaborate, please don't hesitate to reach out:
 
-- **Email**: ecolearn@example.com
-- **Twitter**: [@EcoLearnAI](https://twitter.com/EcoLearnAI)
-- **Website**: [www.ecolearn.ai](https://www.ecolearn.ai)
+- **Email**: vishnu_j@mt.iitr.ac.in
 
 You can also open an issue on GitHub for bug reports or feature requests.
 
