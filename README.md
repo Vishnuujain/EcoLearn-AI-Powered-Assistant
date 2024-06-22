@@ -9,6 +9,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [Pipeline and System Architecture](#Pipeline-and-System-Architecture)
 - [Usage](#usage)
   - [Running the Application](#running-the-application)
   - [API Endpoints](#api-endpoints)
@@ -154,7 +155,7 @@ Before you begin, ensure you have the following installed:
    ```
    Replace `your_*_api_key` with your actual API keys.
 
-## EcoLearn Pipeline and System Architecture
+## Pipeline and System Architecture
 
 ![EcoLearn Pipeline](https://raw.githubusercontent.com/Vishnuujain/EcoLearn-AI-Powered-Environmental-Education-Assistant/main/images/ecolearn_pipeline.svg)
 
