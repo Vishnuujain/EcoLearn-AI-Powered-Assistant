@@ -24,11 +24,4 @@
   <line x1="300" y1="320" x2="300" y2="340" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead)"/>
   <line x1="500" y1="320" x2="500" y2="340" stroke="#000000" stroke-width="2" marker-end="url(#arrowhead)"/>
   
-  <defs>
-    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
-      <polygon points="0 0, 10 3.5, 0 7" />
-    </marker>
-  </defs>
-</svg>
-Last edited 2 minutes ago
 
