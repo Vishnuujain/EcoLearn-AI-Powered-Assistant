@@ -154,14 +154,13 @@ Before you begin, ensure you have the following installed:
    ```
    Replace `your_*_api_key` with your actual API keys.
 
-
 ## EcoLearn Pipeline
 
-![EcoLearn Pipeline](https://raw.githubusercontent.com/Vishnuujain/ecolearn/main/images/ecolearn_pipeline.svg)
+![EcoLearn Pipeline](https://raw.githubusercontent.com/Vishnuujain/EcoLearn-AI-Powered-Environmental-Education-Assistant/main/images/ecolearn_pipeline.svg)
 
 ## System Architecture
 
-![EcoLearn System Architecture](https://raw.githubusercontent.com/Vishnuujain/ecolearn/main/images/ecolearn_architecture.svg)
+![EcoLearn System Architecture](https://raw.githubusercontent.com/Vishnuujain/EcoLearn-AI-Powered-Environmental-Education-Assistant/main/images/ecolearn_architecture.svg)
 
 ## Usage
 ### Running the Application
