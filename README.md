@@ -1,7 +1,5 @@
-```markdown
-# EcoLearn: AI-Powered Environmental Education Assistant
 
-![EcoLearn Logo](https://placeholder-for-ecolearn-logo.com/logo.png)
+# EcoLearn: AI-Powered Environmental Education Assistant
 
 ## Table of Contents
 - [Project Aim](#project-aim)
@@ -130,25 +128,25 @@ Before you begin, ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   ```
+   ```shell
    git clone https://github.com/your-username/ecolearn.git
    cd ecolearn
    ```
 
 2. Create and activate a virtual environment:
-   ```
+   ```shell
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
 3. Install the required dependencies:
-   ```
+   ```shell
    pip install -r requirements.txt
    ```
 
 4. Set up environment variables:
    Create a `.env` file in the root directory and add the following:
-   ```
+   ```shell
    OPENAI_API_KEY=your_openai_api_key
    GOOGLE_API_KEY=your_google_api_key
    GOOGLE_CSE_ID=your_google_cse_id
@@ -161,7 +159,7 @@ Before you begin, ensure you have the following installed:
 ### Running the Application
 
 1. Start the FastAPI server:
-   ```
+   ```shell
    uvicorn main:app --reload
    ```
 
@@ -170,7 +168,7 @@ Before you begin, ensure you have the following installed:
 ### API Endpoints
 
 1. Chat Interface:
-   ```
+   ```shell
    POST /chat
    {
      "user_input": "Tell me about climate change",
@@ -179,7 +177,7 @@ Before you begin, ensure you have the following installed:
    ```
 
 2. Generate Educational Content:
-   ```
+   ```shell
    POST /generate_content
    {
      "topic": "Renewable Energy",
@@ -188,7 +186,7 @@ Before you begin, ensure you have the following installed:
    ```
 
 3. Visualize Environmental Data:
-   ```
+   ```shell
    GET /visualize_data?data_type=air_quality&location=New York
    ```
 
@@ -196,7 +194,7 @@ For more detailed API documentation, refer to the Swagger UI when the server is 
 
 ## Project Structure
 
-```
+```shell
 ecolearn/
 │
 ├── main.py              # Main application file
